@@ -1,0 +1,74 @@
+[
+  {
+    "food_category": "Beverages",
+    "total_prepared": 34273.38,
+    "total_consumed": 28289.16,
+    "total_wasted": 5984.22,
+    "financial_loss": 215796.37,
+    "record_count": 2178,
+    "waste_percentage": 17.46
+  },
+  {
+    "food_category": "Rice",
+    "total_prepared": 28324.34,
+    "total_consumed": 22842.65,
+    "total_wasted": 5481.69,
+    "financial_loss": 274607.04,
+    "record_count": 1280,
+    "waste_percentage": 19.35
+  },
+  {
+    "food_category": "Bread",
+    "total_prepared": 18840.81,
+    "total_consumed": 15340.28,
+    "total_wasted": 3500.53,
+    "financial_loss": 158886.68,
+    "record_count": 1228,
+    "waste_percentage": 18.58
+  },
+  {
+    "food_category": "Curry",
+    "total_prepared": 18886.02,
+    "total_consumed": 15781.17,
+    "total_wasted": 3104.85,
+    "financial_loss": 350517.33,
+    "record_count": 782,
+    "waste_percentage": 16.44
+  },
+  {
+    "food_category": "Salad",
+    "total_prepared": 9198.14,
+    "total_consumed": 6695.23,
+    "total_wasted": 2502.91,
+    "financial_loss": 150571.19,
+    "record_count": 931,
+    "waste_percentage": 27.21
+  },
+  {
+    "food_category": "Snacks",
+    "total_prepared": 13979.31,
+    "total_consumed": 11630.47,
+    "total_wasted": 2348.84,
+    "financial_loss": 175950.43,
+    "record_count": 1362,
+    "waste_percentage": 16.8
+  },
+  {
+    "food_category": "Fruits",
+    "total_prepared": 9428.39,
+    "total_consumed": 7205.37,
+    "total_wasted": 2223.02,
+    "financial_loss": 199497.17,
+    "record_count": 1946,
+    "waste_percentage": 23.58
+  },
+  {
+    "food_category": "Desserts",
+    "total_prepared": 9238.31,
+    "total_consumed": 7821.18,
+    "total_wasted": 1417.13,
+    "financial_loss": 212363.81,
+    "record_count": 936,
+    "waste_percentage": 15.34
+  }
+]

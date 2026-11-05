@@ -1,0 +1,82 @@
+[
+  {
+    "food_item": "Lemonade",
+    "food_category": "Beverages",
+    "total_prepared": 6051.2699999999995,
+    "total_wasted": 1672.82,
+    "financial_loss": 60999.38,
+    "waste_percentage": 27.64
+  },
+  {
+    "food_item": "Lemon Rice",
+    "food_category": "Rice",
+    "total_prepared": 5665.8,
+    "total_wasted": 1636.48,
+    "financial_loss": 81583.35,
+    "waste_percentage": 28.88
+  },
+  {
+    "food_item": "Lassi",
+    "food_category": "Beverages",
+    "total_prepared": 6026.5199999999995,
+    "total_wasted": 1114.72,
+    "financial_loss": 40263.56,
+    "waste_percentage": 18.5
+  },
+  {
+    "food_item": "Pav",
+    "food_category": "Bread",
+    "total_prepared": 4088.76,
+    "total_wasted": 1091.1,
+    "financial_loss": 49103.0,
+    "waste_percentage": 26.69
+  },
+  {
+    "food_item": "Buttermilk",
+    "food_category": "Beverages",
+    "total_prepared": 5725.31,
+    "total_wasted": 1071.24,
+    "financial_loss": 38309.72,
+    "waste_percentage": 18.71
+  },
+  {
+    "food_item": "Juice",
+    "food_category": "Beverages",
+    "total_prepared": 5432.99,
+    "total_wasted": 1060.1,
+    "financial_loss": 38007.56,
+    "waste_percentage": 19.51
+  },
+  {
+    "food_item": "Plain Rice",
+    "food_category": "Rice",
+    "total_prepared": 5316.16,
+    "total_wasted": 995.76,
+    "financial_loss": 50730.81,
+    "waste_percentage": 18.73
+  },
+  {
+    "food_item": "Pulao",
+    "food_category": "Rice",
+    "total_prepared": 4994.89,
+    "total_wasted": 930.04,
+    "financial_loss": 46465.19,
+    "waste_percentage": 18.62
+  },
+  {
+    "food_item": "Jeera Rice",
+    "food_category": "Rice",
+    "total_prepared": 4383.83,
+    "total_wasted": 841.03,
+    "financial_loss": 41469.54,
+    "waste_percentage": 19.18
+  },
+  {
+    "food_item": "Chapati",
+    "food_category": "Bread",
+    "total_prepared": 4105.52,
+    "total_wasted": 803.54,
+    "financial_loss": 36905.8,
+    "waste_percentage": 19.57
+  }
+]

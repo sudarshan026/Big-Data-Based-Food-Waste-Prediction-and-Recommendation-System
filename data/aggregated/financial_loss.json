@@ -1,0 +1,34 @@
+[
+  {
+    "food_category": "Beverages",
+    "total_loss": 215796.37
+  },
+  {
+    "food_category": "Bread",
+    "total_loss": 158886.68
+  },
+  {
+    "food_category": "Curry",
+    "total_loss": 350517.33
+  },
+  {
+    "food_category": "Desserts",
+    "total_loss": 212363.81
+  },
+  {
+    "food_category": "Fruits",
+    "total_loss": 199497.17
+  },
+  {
+    "food_category": "Rice",
+    "total_loss": 274607.04
+  },
+  {
+    "food_category": "Salad",
+    "total_loss": 150571.19
+  },
+  {
+    "food_category": "Snacks",
+    "total_loss": 175950.43
+  }
+]

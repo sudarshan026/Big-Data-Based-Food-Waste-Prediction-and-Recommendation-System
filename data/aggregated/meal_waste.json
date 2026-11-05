@@ -1,0 +1,38 @@
+[
+  {
+    "meal_type": "Breakfast",
+    "total_prepared": 26423.75,
+    "total_consumed": 21387.13,
+    "total_wasted": 5036.62,
+    "financial_loss": 279535.88,
+    "record_count": 2579,
+    "waste_percentage": 19.06
+  },
+  {
+    "meal_type": "Dinner",
+    "total_prepared": 41701.05,
+    "total_consumed": 33957.56,
+    "total_wasted": 7743.49,
+    "financial_loss": 527977.57,
+    "record_count": 2724,
+    "waste_percentage": 18.57
+  },
+  {
+    "meal_type": "Evening Snacks",
+    "total_prepared": 18765.82,
+    "total_consumed": 15415.99,
+    "total_wasted": 3349.83,
+    "financial_loss": 205360.62,
+    "record_count": 2555,
+    "waste_percentage": 17.85
+  },
+  {
+    "meal_type": "Lunch",
+    "total_prepared": 55278.08,
+    "total_consumed": 44844.83,
+    "total_wasted": 10433.25,
+    "financial_loss": 725315.95,
+    "record_count": 2785,
+    "waste_percentage": 18.87
+  }
+]

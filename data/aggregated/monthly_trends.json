@@ -1,0 +1,86 @@
+[
+  {
+    "month": "2025-11",
+    "total_prepared": 11803.04,
+    "total_consumed": 9550.82,
+    "total_wasted": 2252.22,
+    "waste_percentage": 19.08
+  },
+  {
+    "month": "2025-12",
+    "total_prepared": 12772.7,
+    "total_consumed": 10339.43,
+    "total_wasted": 2433.27,
+    "waste_percentage": 19.05
+  },
+  {
+    "month": "2026-01",
+    "total_prepared": 11815.31,
+    "total_consumed": 9574.8,
+    "total_wasted": 2240.51,
+    "waste_percentage": 18.96
+  },
+  {
+    "month": "2026-02",
+    "total_prepared": 11293.58,
+    "total_consumed": 9178.95,
+    "total_wasted": 2114.63,
+    "waste_percentage": 18.72
+  },
+  {
+    "month": "2026-03",
+    "total_prepared": 12324.61,
+    "total_consumed": 10050.42,
+    "total_wasted": 2274.19,
+    "waste_percentage": 18.45
+  },
+  {
+    "month": "2026-04",
+    "total_prepared": 12070.36,
+    "total_consumed": 9858.21,
+    "total_wasted": 2212.15,
+    "waste_percentage": 18.33
+  },
+  {
+    "month": "2026-05",
+    "total_prepared": 11692.37,
+    "total_consumed": 9505.57,
+    "total_wasted": 2186.8,
+    "waste_percentage": 18.7
+  },
+  {
+    "month": "2026-06",
+    "total_prepared": 11730.77,
+    "total_consumed": 9562.16,
+    "total_wasted": 2168.61,
+    "waste_percentage": 18.49
+  },
+  {
+    "month": "2026-07",
+    "total_prepared": 11969.5,
+    "total_consumed": 9769.66,
+    "total_wasted": 2199.84,
+    "waste_percentage": 18.38
+  },
+  {
+    "month": "2026-08",
+    "total_prepared": 11662.95,
+    "total_consumed": 9467.01,
+    "total_wasted": 2195.94,
+    "waste_percentage": 18.83
+  },
+  {
+    "month": "2026-09",
+    "total_prepared": 11238.43,
+    "total_consumed": 9150.6,
+    "total_wasted": 2087.83,
+    "waste_percentage": 18.58
+  },
+  {
+    "month": "2026-10",
+    "total_prepared": 11795.08,
+    "total_consumed": 9597.88,
+    "total_wasted": 2197.2,
+    "waste_percentage": 18.63
+  }
+]

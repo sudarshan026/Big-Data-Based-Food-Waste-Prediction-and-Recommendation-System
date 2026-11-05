@@ -1,0 +1,72 @@
+{
+  "status": "completed",
+  "engine": "Apache PySpark Pipeline",
+  "processing_time_seconds": 6.15,
+  "processed_at": "2026-11-05T23:29:41.416396",
+  "stages": {
+    "ingestion": {
+      "engine": "PySpark Ingestion Engine",
+      "records_loaded": 10749,
+      "schema": [
+        "record_id",
+        "date",
+        "food_item",
+        "food_category",
+        "meal_type",
+        "quantity_prepared",
+        "quantity_consumed",
+        "quantity_wasted",
+        "students_served",
+        "cost_per_kg",
+        "day_of_week",
+        "special_event"
+      ],
+      "status": "completed"
+    },
+    "cleaning": {
+      "duplicates_removed": 106,
+      "missing_values_imputed": 322,
+      "invalid_records_removed": 0,
+      "records_after_cleaning": 10643,
+      "status": "completed"
+    },
+    "transformation": {
+      "new_columns_added": [
+        "quantity_wasted",
+        "waste_percentage",
+        "consumption_percentage",
+        "total_cost",
+        "financial_loss",
+        "month"
+      ],
+      "status": "completed"
+    },
+    "aggregation": {
+      "analyses_performed": [
+        "category_waste",
+        "meal_waste",
+        "top_wasted_items",
+        "monthly_trends",
+        "financial_analysis"
+      ],
+      "status": "completed"
+    },
+    "output": {
+      "processed_csv_saved": true,
+      "aggregations_saved": true,
+      "output_path": "C:\\Users\\Sudarshan\\Downloads\\BD MINI porject\\data\\processed\\processed_food_waste.csv",
+      "status": "completed"
+    }
+  },
+  "summary": {
+    "total_records_processed": 10643,
+    "total_prepared_kg": 142168.7,
+    "total_consumed_kg": 115605.51,
+    "total_wasted_kg": 26563.19,
+    "overall_waste_pct": 18.68,
+    "total_financial_loss": 1738190.02,
+    "categories_analyzed": 8,
+    "food_items_analyzed": 48,
+    "date_range": "2025-11-01 to 2026-10-31"
+  }
+}
